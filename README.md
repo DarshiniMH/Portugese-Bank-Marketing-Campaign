@@ -17,7 +17,7 @@ This project analyzes marketing campaign data from a Portuguese bank to predict 
 
 | File/Folder | Description |
 |-------------|-------------|
-| [`Portugese_bank_marketing_POLISHED.ipynb`](https://nbviewer.org/github/DarshiniMH/Portugese-Bank-Marketing-Campaign/blob/main/Portugese_bank_marketing_POLISHED.ipynb) | Cleaned Jupyter notebook with full EDA, modeling, and evaluation |
+| [`Portugese_bank_marketing_v2.ipynb`](https://nbviewer.org/github/DarshiniMH/Portugese-Bank-Marketing-Campaign/blob/main/Portugese_bank_marketing_v2.ipynb) | Cleaned Jupyter notebook with full EDA, modeling, and evaluation |
 | `train_test_split.pkl` | Pickled train/test split for fast reuse |
 | `README.md` | You're reading it! Contains project summary and links |
 
@@ -40,11 +40,6 @@ This project analyzes marketing campaign data from a Portuguese bank to predict 
 - Identified top 20 influential features for targeting
 - Designed a profitability-aware evaluation strategy
 
----
-
-## View Notebook
-
-[View on nbviewer](https://nbviewer.org/github/DarshiniMH/Portugese-Bank-Marketing-Campaign/blob/main/Portugese_bank_marketing_POLISHED.ipynb)
 
 ---
 
