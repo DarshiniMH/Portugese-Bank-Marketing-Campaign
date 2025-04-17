@@ -15,10 +15,14 @@ This project analyzes marketing campaign data from a Portuguese bank to predict 
 
 ## File Structure
 
-| File/Folder | Description |
-|-------------|-------------|
-| [`Portugese_bank_marketing_v2.ipynb`](https://nbviewer.org/github/DarshiniMH/Portugese-Bank-Marketing-Campaign/blob/main/Portugese_bank_marketing_v2.ipynb) | Cleaned Jupyter notebook with full EDA, modeling, and evaluation |
-| `README.md` | Contains project summary and links |
+| File/Folder                                 | Description                                                  |
+|--------------------------------------------|--------------------------------------------------------------|
+| [`1_EDA_PortugueseBank.ipynb`](https://nbviewer.org/github/DarshiniMH/Portugese-Bank-Marketing-Campaign/blob/47a9d3e82bfa34665ec76d3e0fff4700e1cfc313/EDA_PortugeseBank.ipynb#binning-numeric-features-into-buckets)            | Notebook for data loading, cleaning, univariate and bivariate EDA |
+| [`2_Modeling_PortugueseBank.ipynb`](https://nbviewer.org/github/DarshiniMH/Portugese-Bank-Marketing-Campaign/blob/47a9d3e82bfa34665ec76d3e0fff4700e1cfc313/Feature_Engineering_Modeling_PortugeseBank.ipynb) | Notebook for feature engineering, model training, tuning, and evaluation |
+| [`train_data.csv`](./train_data.csv)                             | Cleaned training dataset used for modeling                   |
+| [`test_data.csv`](./test_data.csv)                               | Cleaned testing dataset used for evaluation                  |
+| [`Portugese_bank_marketing_v2.ipynb`](./Portugese_bank_marketing_v2.ipynb) | Original combined notebook (EDA + modeling) — now archived   |
+| [`README.md`](./README.md)  
 
 ---
 
