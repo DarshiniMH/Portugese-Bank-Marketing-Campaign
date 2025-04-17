@@ -18,7 +18,7 @@ This project analyzes marketing campaign data from a Portuguese bank to predict 
 | File/Folder | Description |
 |-------------|-------------|
 | [`Portugese_bank_marketing_v2.ipynb`](https://nbviewer.org/github/DarshiniMH/Portugese-Bank-Marketing-Campaign/blob/main/Portugese_bank_marketing_v2.ipynb) | Cleaned Jupyter notebook with full EDA, modeling, and evaluation |
-| `README.md` | You're reading it! Contains project summary and links |
+| `README.md` | Contains project summary and links |
 
 ---
 
